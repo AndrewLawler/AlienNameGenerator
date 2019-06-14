@@ -1,4 +1,4 @@
-# comp_101_as5
+# Alien Name 
 
 Simply enter your name for an Alien Name or enter these names for a hidden surprise!
 
